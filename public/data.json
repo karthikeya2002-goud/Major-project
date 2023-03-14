@@ -1,0 +1,29 @@
+[
+
+    {   "id":"1",
+        "caseType":"OS",
+        "FillingNumber":"19517/2016",
+        "FillingDate":"02-11-2016",
+        "RegistrationNumber":"1186/2016",
+        "RegistrationDate":"03-11-2016",
+        "CNR":"TSRA000058692016",
+        "FirstHearingDate":"19-12-2016",
+        "NextHearingDate":"19-01-2023",
+        "CaseStage":"FOR TRIAL",
+        "CourtNumberAndJudge":"3-II Addl District Judge"
+    },
+    {   "id":"2",
+        "caseType":"OS",
+        "FillingNumber":"1248/2022",
+        "FillingDate":"01-11-2022",
+        "RegistrationNumber":"1591/2022",
+        "RegistrationDate":"02-11-2022",
+        "CNR":"TSRA000077262022",
+        "FirstHearingDate":"13-11-2022",
+        "NextHearingDate":"19-01-2023",
+        "CaseStage":"WRITTEN STATEMENT",
+        "CourtNumberAndJudge":"8-VIII Addl District And Session Judge"
+    }
+        
+    
+]

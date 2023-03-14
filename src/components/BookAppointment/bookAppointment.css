@@ -1,0 +1,14 @@
+.appointment--content {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    margin-top: -10vh;
+}
+
+.navBarSpace{
+    height:100vh;
+    margin-top: 4rem;
+}
